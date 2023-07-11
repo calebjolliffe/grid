@@ -175,5 +175,13 @@
                 Col. 5
             </div>
         </div>
+
+        <br>
+
+        <div class="container">
+            <div class="col-6">
+                Col. 6
+            </div>
+        </div>
     </body>
 </html>
