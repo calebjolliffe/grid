@@ -191,5 +191,13 @@
                 Col. 7
             </div>
         </div>
+
+        <br>
+
+        <div class="container">
+            <div class="col-8">
+                Col. 8
+            </div>
+        </div>
     </body>
 </html>
