@@ -26,6 +26,7 @@
                 margin-left: auto;
                 padding-right: 2%;
                 padding-left: 2%;
+                border:1px solid #000;
             }
 
             .row {
@@ -39,6 +40,7 @@
                 padding: 0 1%;
                 box-sizing: border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-2 {
@@ -46,6 +48,7 @@
                 padding: 0 1%;
                 box-sizing: border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-3 {
@@ -53,6 +56,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-4 {
@@ -60,6 +64,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-5 {
@@ -67,6 +72,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-6 {
@@ -74,6 +80,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-7 {
@@ -81,6 +88,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
 
             .col-8 {
@@ -88,6 +96,7 @@
                 padding:0 1%;
                 box-sizing:border-box;
                 background-color:rgba(255,0,0,0.1);
+                border-right:1px solid #000;
             }
         </style>
     </head>
@@ -134,6 +143,17 @@
             </div>
             <div class="col-2">
                 Col. 2
+            </div>
+        </div>
+
+        <br>
+
+        <div class="container">
+            <div class="col-3">
+                Col. 3
+            </div>
+            <div class="col-3">
+                Col. 3
             </div>
         </div>
     </body>
